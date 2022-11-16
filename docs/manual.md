@@ -19,7 +19,7 @@ site (narro.innomatic.ca) and sign in.
 4. Upload documents using drag and drop.
 5. All documents you uploaded should appear in the directory.
 
-## How to Delete the App and Related Data
+## How to Completely Delete App and Related Data
 
 1. On the mobile app, go to `Account` menu and click `Cancel Account`.
 2. On the desktop, log in to your 
@@ -34,14 +34,15 @@ and delete `Narro` directory.
 ## Frequently Asked Questions
 
 
-### Why I can't see documents I have uploaded.
+### I can't see the documents I moved under narro directory.
 
-The app is limited to access only data that it created. You need to use the 
+The app can only see the document its 
 <a href="https://narro.innomatic.ca/" target="_blank">Companion app</a>
-to upload documents.
-On the other hands, you have full access to the documents that the app created.
+created for the security reason.
+On the other hands, you have the full access to the documents that the app 
+created on your Google drive.
 
-### I upload pdf/docx/ppt files. App creates Google documents.
+### I uploaded pdf/docx/ppt files. App creates Google documents.
 
 This is a designed feature. It is to extract text data from the original documents.
 
@@ -50,7 +51,7 @@ This is a designed feature. It is to extract text data from the original documen
 
 Check if pop up is disabled in your browser.
 
-## How to Contact US
+## Contact US
 
 Please [email us.](mailto:nuntium.ubique@innomatic.ca)
 You can find the email link inside the app too: `About > App Info`
