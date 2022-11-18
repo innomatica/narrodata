@@ -1,4 +1,4 @@
-site_name: Orator
+site_name: Narro
 theme: readthedocs
 markdown_extensions:
   - attr_list

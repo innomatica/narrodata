@@ -31,10 +31,18 @@ site (narro.innomatic.ca) and sign in.
 <a href="https://drive.google.com/" target="_blank">Google Drive</a> page
 and delete `Narro` directory.
 
+
 ## Frequently Asked Questions
 
+### Why app asks xyz permission?
 
-### I can't see the documents I moved under narro directory.
+The app uses your Google drive space as a conduit for the documents from the
+desktop to the smart phone. What you allow is
+
+* NOT the permission of reading/writing existing documents on the drive
+* BUT the permission of usage of the drive for its own purpose.
+
+### I can't see the documents I copied/moved under narro directory.
 
 The app can only see the document its 
 <a href="https://narro.innomatic.ca/" target="_blank">Companion app</a>
@@ -45,7 +53,6 @@ created on your Google drive.
 ### I uploaded pdf/docx/ppt files. App creates Google documents.
 
 This is a designed feature. It is to extract text data from the original documents.
-
 
 ### I clicked Sign In With Google button and nothing happend
 
